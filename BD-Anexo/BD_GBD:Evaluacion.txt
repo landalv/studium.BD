@@ -1,0 +1,26 @@
+Evaluación
+Este módulo será evaluado de la siguiente forma:
+En cada trimestre se pedirá una Práctica que supondrá el mayor porcentaje de la nota.
+En cada tema se hará un Examen tipo Test que supondrán el porcentaje restante de la nota.
+
+Evaluación 1er Trimestre: Temas 1 y 2:
+    Test Tema 1: 15% nota
+    Test Tema 2: 15% nota
+    Práctica Primer Trimestre: 70% nota
+
+Evaluación 2º Trimestre: Temas 3 y 4
+    Test Tema 3: 15% nota
+    Test Tema 4: 15% nota
+    Práctica Segundo Trimestre: 70% nota
+
+Evaluación 3er Trimestre: Temas 5, 6 y 7
+    Test Tema 5: 5% nota
+    Test Tema 6: 5% nota
+    Test Tema 7: 5% nota
+    Práctica Tercer Trimestre: 85% nota
+
+Hay que aprobarlo TODO para aprobar la asignatura.
+
+NOTA: Las prácticas se pueden entregar dos veces como máximo, dentro del plazo establecido. La primera entrega sería una semana antes de la entrega final.
+Las recuperaciones se evalúan con un 5 como nota MÁXIMA para evitar desagravios comparativos con compañeros o compañeras que han entregado en tiempo sus trabajos o han aprobado sus exámenes.
+Última modificación: miércoles, 31 de agosto de 2022, 08:02

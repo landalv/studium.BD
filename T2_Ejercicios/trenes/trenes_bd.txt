@@ -1,0 +1,4 @@
+trenes(#idTren,matriculaTren,colorTren)
+locomotoras(#idLocomotora,claseMotor,potencia,idTrenFK)
+vagonesPasajeros(#idTrenFK,plazasAsientos,plazasDepie)
+vogonesMercancias(#idTrenFK,pesoMaximo)
